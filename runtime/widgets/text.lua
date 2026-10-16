@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- widgets/text.lua — Text（预览 mock）
 --

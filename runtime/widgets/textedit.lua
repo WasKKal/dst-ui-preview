@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- widgets/textedit.lua — TextEdit（预览 mock）
 -- 继承 Text；录入态由 OnControl(CONTROL_ACCEPT) 切换，

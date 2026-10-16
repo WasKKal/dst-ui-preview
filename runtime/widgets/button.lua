@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- widgets/button.lua — Button 基类（预览 mock）
 -- ImageButton / AnimButton 的基类：持有 .text 子控件与点击回调。

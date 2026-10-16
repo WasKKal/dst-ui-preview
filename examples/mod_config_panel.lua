@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- mod_config_panel.lua — 典型 DST mod 配置面板
 --

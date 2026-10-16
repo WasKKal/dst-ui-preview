@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- vision_dst.lua — DST widget 树 → 绘制列表（draw list）
 --

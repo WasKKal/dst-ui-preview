@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- widgets/imagebutton.lua — ImageButton（预览 mock）
 -- 内部结构：self.image（Image 子控件，显示各状态纹理）

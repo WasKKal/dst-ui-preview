@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- harness.lua — 无头 harness：实例化屏幕、推进虚拟时钟、
 --               派发点击、捕获动画帧、输出 JSON 报告。

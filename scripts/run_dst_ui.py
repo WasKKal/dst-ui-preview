@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 WasKKal · DST UI Preview
 """
 run_dst_ui.py — 无头预览 Don't Starve Together mod UI 并渲染出 PNG / HTML
 

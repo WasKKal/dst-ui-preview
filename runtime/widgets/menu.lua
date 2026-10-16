@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- widgets/menu.lua — Menu（预览 mock）
 -- 纵向/横向排列的按钮列表；每项一个 ImageButton（含 .text 标签）。

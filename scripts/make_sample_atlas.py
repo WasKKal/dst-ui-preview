@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 WasKKal · DST UI Preview
 """
 make_sample_atlas.py — 生成一张【示例图集】（XML + PNG），用于试用 --textures
 

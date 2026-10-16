@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- 冒烟测试：最小屏幕（Image + Text + Button）
 -- 用法：python3 scripts/run_dst_ui.py --screen examples/smoke.lua --style both
 -- 交互：--click 640,300 命中的是「点我」按钮

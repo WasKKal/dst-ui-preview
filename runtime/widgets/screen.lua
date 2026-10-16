@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- widgets/screen.lua — Screen（预览 mock）
 -- Screen 继承 Widget；harness 渲染的根就是一个 Screen 实例。

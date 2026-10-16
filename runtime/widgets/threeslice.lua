@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- widgets/threeslice.lua — ThreeSlice（预览 mock）
 -- 三段式拉伸背景：Flow(w, h, center) 设定内容尺寸，

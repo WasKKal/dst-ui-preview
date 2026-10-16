@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- widgets/spinner.lua — Spinner（预览 mock）
 -- 默认 150x40；左右箭头 ImageButton + 中央 Text/TextEdit。

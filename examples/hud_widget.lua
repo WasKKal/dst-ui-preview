@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+-- Copyright (c) 2026 WasKKal · DST UI Preview
 -- ============================================================
 -- hud_widget.lua — 带动画的 HUD 部件（演示虚拟时钟 / 补间 / 点击）
 --

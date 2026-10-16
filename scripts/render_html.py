@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 WasKKal · DST UI Preview
 """
 render_html.py — 把 DST widget 树的绘制列表渲染成【自包含、可交互的 HTML】
 
