@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 渲染产物（示例输出，不入库）
+*.png
+*.html
+!examples/textures/images/*.png
+!docs/*.png
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+*.swp

@@ -1,0 +1,20 @@
+<Atlas>
+  <Texture filename="images/frontend.tex"/>
+  <Elements>
+    <Element name="bg_plain.tex" u1="0.000000" v1="0.875000" u2="0.125000" v2="1.000000"/>
+    <Element name="panel_backdrop.tex" u1="0.125000" v1="0.875000" u2="0.250000" v2="1.000000"/>
+    <Element name="divider.tex" u1="0.250000" v1="0.875000" u2="0.375000" v2="1.000000"/>
+    <Element name="button_medium_locked.tex" u1="0.375000" v1="0.875000" u2="0.500000" v2="1.000000"/>
+    <Element name="button_medium_hover.tex" u1="0.500000" v1="0.875000" u2="0.625000" v2="1.000000"/>
+    <Element name="button_medium_pressed.tex" u1="0.625000" v1="0.875000" u2="0.750000" v2="1.000000"/>
+    <Element name="checkbox_default.tex" u1="0.750000" v1="0.875000" u2="0.875000" v2="1.000000"/>
+    <Element name="checkbox_focus.tex" u1="0.875000" v1="0.875000" u2="1.000000" v2="1.000000"/>
+    <Element name="checkbox_disabled.tex" u1="0.000000" v1="0.750000" u2="0.125000" v2="0.875000"/>
+    <Element name="checkbox_selected.tex" u1="0.125000" v1="0.750000" u2="0.250000" v2="0.875000"/>
+    <Element name="checkbox_checked.tex" u1="0.250000" v1="0.750000" u2="0.375000" v2="0.875000"/>
+    <Element name="spinner_short.tex" u1="0.375000" v1="0.750000" u2="0.500000" v2="0.875000"/>
+    <Element name="spin_arrow.tex" u1="0.500000" v1="0.750000" u2="0.625000" v2="0.875000"/>
+    <Element name="button_long.tex" u1="0.625000" v1="0.750000" u2="0.750000" v2="0.875000"/>
+    <Element name="button_long_focus.tex" u1="0.750000" v1="0.750000" u2="0.875000" v2="0.875000"/>
+  </Elements>
+</Atlas>
