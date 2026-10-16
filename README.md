@@ -1,5 +1,16 @@
 # DST UI Preview · 无头预览 Don't Starve Together 的 mod UI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![Lua](https://img.shields.io/badge/Lua-5.1%20mods-2C2D72.svg)](https://www.lua.org/)
+
+**库地址**：<https://github.com/WasKKal/dst-ui-preview>
+
+```bash
+git clone https://github.com/WasKKal/dst-ui-preview.git
+cd dst-ui-preview && pip install lupa pillow
+```
+
 不用启动游戏，就能把 DST mod 的界面**跑起来并看见**：
 在真实的 Lua VM 里实例化你的 `Widget` 树，算出每个控件的位置/尺寸/纹理/文字，
 再渲染成**高清 PNG**（可叠加动画）或**可交互 HTML**（悬停探针、缩放、动画时间轴）。
@@ -244,4 +255,7 @@ done
 
 ## License
 
-MIT
+MIT © 2026 WasKKal — 见 [LICENSE](LICENSE)。
+
+第三方资源：`assets/fonts/` 下的 Source Sans 3 与 Inter 均为 SIL Open Font License 1.1；
+`examples/textures/` 中的示例图集由 `scripts/make_sample_atlas.py` 生成，随本仓库同以 MIT 授权。
